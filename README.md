@@ -88,4 +88,4 @@ services.AddDbContext<DataContext>(options =>
 #### 4. Настраиваем сборку на Gitlab
 Настроил:
 
-<image src="ci/docker.png" alt="ci">
+<image src="images/ci.png" alt="ci">
